@@ -1,3 +1,8 @@
+> [!WARNING]
+> **This tool was Vibecoded.** The code, tests and documentation were written by Claude
+> (an AI model by Anthropic) and reviewed and tested only as described below. Use it at your own
+> risk and keep backups of your saves.
+
 # Azimuth Save Importer
 
 Brings your **Forza Horizon 2 Xbox saves** into **Azimuth** on PC: your profile and progress,
