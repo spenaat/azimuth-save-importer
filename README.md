@@ -25,7 +25,7 @@ Requires Windows 10 or 11 (it runs on the .NET Framework 4.8 that comes with Win
 
 ## How to use it
 
-1. **Download your saves with XBsync.** Sign in, pick *Forza Horizon 2*, then use *Download all*
+1. **Download your saves with **[XBsync](https://github.com/d3fekt/xbsync)**.** Sign in, pick *Forza Horizon 2*, then use *Download all*
    (a folder) or *Download ZIP*.
 2. **Start the game in Azimuth once, let it save, and close it.** The importer checks its output
    against the saves Azimuth wrote itself before it changes anything (see *Safety*), so it needs
